@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+C:\Users\ASUS\Desktop\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe
+C:\Users\ASUS\Desktop\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.pdb
+C:\Users\ASUS\Desktop\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.Properties.Resources.resources
+C:\Users\ASUS\Desktop\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.exe
+C:\Users\ASUS\Desktop\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.pdb
+C:\Users\ASUS\Desktop\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.frmMain.resources
+C:\Users\ASUS\Desktop\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.frmLogin.resources
+C:\Users\ASUS\Desktop\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.frmGiaoVien.resources
+C:\Users\ASUS\Desktop\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.frmLop.resources
+C:\Users\ASUS\Desktop\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.frmSinhVien.resources
+C:\Users\ASUS\Desktop\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.frmThongKeSV.resources
